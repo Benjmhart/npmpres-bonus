@@ -1,0 +1,23 @@
+{
+  "name": "npmpres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "cowsay \"i am le tired\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjmhart/npmpres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjmhart/npmpres/issues"
+  },
+  "homepage": "https://github.com/Benjmhart/npmpres#readme",
+  "description": "",
+  "dependencies": {
+    "cowsay": "^1.3.0"
+  }
+}
